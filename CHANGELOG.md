@@ -6,3 +6,5 @@
 - [v0.2.1](https://github.com/ntk148v/neovim-config/tree/v0.2.1): this version contains some minor changes.
 - [v0.3.0](https://github.com/ntk148v/neovim-config/tree/v0.3.0): I decide to switch to [lazy.nvim](https://github.com/folke/lazy.nvim) as my plugin manager, instead of [packer](https://github.com/wbthomason/packer.nvim). The main reason is [lazy.nvim's support for plugin structure](https://github.com/folke/lazy.nvim#-structuring-your-plugins).
 - [v0.4.0](https://github.com/ntk148v/neovim-config/tree/v0.4.0): Restructure the source code and change the customize configuration logic.
+
+Failed to change theme
